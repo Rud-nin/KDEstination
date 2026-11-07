@@ -2,3 +2,22 @@ docs/
 opencode.json
 DEEPSEEK.md
 CODEX_REVIEW.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Local config, state, and browser profiles (never commit session data)
+.env
+*.profile/
+state/

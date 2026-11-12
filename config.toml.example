@@ -1,0 +1,3 @@
+# Copy to ~/.config/private-notify/config.toml and set your tenant's URL.
+[teams_activity]
+url = "https://teams.microsoft.com/v2/"
